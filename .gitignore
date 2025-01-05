@@ -1,0 +1,9 @@
+# Ignore node_modules
+node_modules
+dist
+
+# Ignore .idea folder
+.idea
+
+# Ignore DS_Store
+.DS_Store
